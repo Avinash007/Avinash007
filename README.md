@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Hand Tracking Mouse](https://github.com/Avinash007/Wave-Mouse-Desktop)
 
+- 👨‍💻 All of my projects are available at [https://github.com/Avinash007/ML-Projects](https://github.com/Avinash007/ML-Projects)
+
 - 📫 How to reach me **avinashbeck007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
